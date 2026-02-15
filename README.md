@@ -31,25 +31,26 @@ The system follows a modular pipeline architecture:
 
 Clone the repository:
 
+```bash
 git clone https://github.com/ahmedxzarai/AI-Physio.git
 cd AI-Physio
-
+```
 
 
 Environment Configuration:
 Install dependencies (Optimized for Python 3.13):
 
+```bash
 pip install -r requirements.txt
-
-
+```
 
 Download AI Model: Download the Pose Landmarker Task and place it in the root folder as pose\_landmarker.task.
 
-
-
 Execution:
 
+```bash
 python main.py
+```
 
 
 
@@ -71,4 +72,3 @@ The system generates a summary\_session.json after every workout, providing inst
 
 📜 License \& Copyright
 Copyright © 2026 AHMED ZARAI. Distributed under the MIT License. See LICENSE for more information.
-
