@@ -62,6 +62,7 @@ AI-Physio/
 <details>
 <summary><b>View Implementation Guide (Click to Expand)</b></summary>
 
+
 1. Clone the repository
 ```bash
 git clone https://github.com/ahmedxzarai/AI-Physio.git
