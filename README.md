@@ -23,7 +23,7 @@ The system operates on a modular inference pipeline:
     * The angle $\theta$ is derived using the Law of Cosines on the 3D vectors $\vec{a}$ (hip-to-knee) and $\vec{b}$ (knee-to-ankle):
     $$\theta = \arccos\left(\frac{\vec{a} \cdot \vec{b}}{|\vec{a}| |\vec{b}|}\right)$$
 * *State Machine Logic:* A robust FSM tracks transitions between UP and DOWN states.
-* *Data Telemetry:* Automatic serialization of session data into JSON`/CSV` for longitudinal tracking.
+* *Data Telemetry:* Automatic serialization of session data into `JSON`/`CSV` for longitudinal tracking.
 
 ---
 
