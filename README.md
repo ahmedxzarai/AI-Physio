@@ -82,6 +82,8 @@ python main.py
 ```
 </details>
 
+---
+
 ### 📈 Data Insights (Telemetry Output)
 The engine generates a summary_session.json after every cycle:
 ```json
@@ -92,14 +94,11 @@ The engine generates a summary_session.json after every cycle:
   "session_duration_sec": 45.3
 }
 ```
+---
 
 ### 👤 Author
 **AHMED ZARAI**<br>
-*AI Systems & Biometric Intelligence Developer*
-
-
-
-
+*AI Systems & Biometric Intelligence Developer*<br><br><br>
 
 <div align="center">
 <p>Copyright © 2026 AHMED ZARAI. Distributed under the MIT License.</p>
