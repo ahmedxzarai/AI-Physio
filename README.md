@@ -73,7 +73,7 @@ pip install -r requirements.txt
 ```
 3. Download AI Model
 ```text
-Download the Pose Landmarker Task and place it in the root folder as pose\_landmarker.task.
+Download the Pose Landmarker Task and place it in the root folder as pose_landmarker.task.
 ```
 4. Execution
 ```bash
